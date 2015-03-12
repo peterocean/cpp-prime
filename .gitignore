@@ -1,0 +1,29 @@
+#directory need to be ignored
+
+
+
+#files need to be ignored,only keep the source 
+#code to save space int git hub
+
+#vs2010 project files related
+*.sdf
+*.sln
+*.suo
+
+#other file not necessary
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+#intermeatiate files
+*.log
+*.pdb
+*.idb
+*.tlog
+*.cache
+*.unsuccessfulbuild
+*.lastbuildstate
+*.ipch
+*.obj
+
+
